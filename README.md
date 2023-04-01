@@ -15,4 +15,5 @@ Note: Press E to grab and throw items and left click to deactivate items. If whe
 
 Interactable items: chair, ball, box, and some of the coffee table items.
 
-![Screenshot_34](https://user-images.githubusercontent.com/129271569/229304358-664bf29b-8f43-446f-9e5b-5d97f8cbc22d.png)
+![Screenshot_36](https://user-images.githubusercontent.com/129271569/229304932-70e8aa1a-7c14-4510-9c3b-766bef64829f.png)
+
