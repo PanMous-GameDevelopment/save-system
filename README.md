@@ -1,5 +1,6 @@
 # save-system
-A save system that takes a list of game objects and saves their position, rotation and active state to .json file on game exit and loads data on game start.
+A save system that takes a list of game objects and saves their position, rotation and active state to a .json file on game exit and loads data on game start.
+File name : save.json
 
 1. Open with Unity.
 2. In the "Scenes" folder first open the "MainMenu" scene.
