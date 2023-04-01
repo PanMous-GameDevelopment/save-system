@@ -12,7 +12,7 @@ The "Continue" button gets deactivated if there is no save file in the path. Oth
 
 When the scene scene loads, a message will appear in the console indicating the path of the save file in the computer.
 
-Note: Press E to grab and throw items and left click to deactivate items. If when opening the project an error appears about an FBX, ignore it.
+Note: Press E to grab and throw items and left click to deactivate items. If while opening the project an error appears about an FBX, ignore it.
 
 Interactable items: chair, ball, box, and some of the coffee table items.
 
